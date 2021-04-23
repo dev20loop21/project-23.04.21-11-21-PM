@@ -1,0 +1,16 @@
+{
+  "name": "after-weather-app",
+  "version": "1.0.0",
+  "description": "a project to tell user the weather of his country",
+  "main": "after server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Rezk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
